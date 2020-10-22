@@ -1,0 +1,19 @@
+.banner {
+    background-image: linear-gradient(70deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 5%), url('https://d279m997dpfwgl.cloudfront.net/wp/2019/07/GettyImages-1146804505.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+}
+  
+.banner h1 {
+    color: white;
+    font-size: 40px;
+    text-shadow: 1px 1px 2px black;
+}
+  
+.banner p {
+    color: white;
+    font-size: 30px;
+    text-shadow: 1px 1px 2px black;
+}
+  

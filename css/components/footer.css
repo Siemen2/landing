@@ -1,0 +1,18 @@
+.footer {
+    text-align: center;
+    padding: 60px;
+    background-color: #464242;
+}
+  
+.footer a {
+    color:  #1EDD88;
+}
+  
+.footer .links {
+    color:  #1EDD88;
+    font-size: 30px;
+}
+
+.footer p {
+    color: #acacac;
+}
